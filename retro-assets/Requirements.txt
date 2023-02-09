@@ -1,0 +1,9 @@
+If you wish to have a retro logo or custom logo added for your coin or token on the Exzo DeFi Wallet please follow the instructions below.
+
+Step 1) Fork the this repo (DeFi-Wallet-Assets).
+
+Step 2) Upload your coin or token image in .png format with the dimensions of 56x56 pixels and a transparent background.
+
+Step 3) Submit a pull request.
+
+Step 4) If approved we will commit the changes to the official repository.
